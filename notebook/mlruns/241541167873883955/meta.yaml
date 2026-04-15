@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/241541167873883955
+creation_time: 1776295449796
+experiment_id: '241541167873883955'
+last_update_time: 1776295449796
+lifecycle_stage: active
+name: sentiment_analysis_experiment
